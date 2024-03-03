@@ -10,6 +10,8 @@
 
 # IDEs and editors
 /.idea
+.idea
+.angular
 .project
 .classpath
 .c9/

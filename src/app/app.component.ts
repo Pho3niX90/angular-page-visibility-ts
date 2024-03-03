@@ -7,7 +7,7 @@ import {
   AngularPageVisibilityStateEnum,
   OnPagePrerender,
   OnPageUnloaded,
-} from 'angular-page-visibility';
+} from 'angular-page-visibility-ts';
 import { Subscription } from 'rxjs';
 
 @Component({

@@ -131,8 +131,7 @@
           "configurations": {
             "production": {
               "tsConfig": "projects/angular-page-visibility-lib/tsconfig.lib.prod.json",
-              "project": "projects/angular-page-visibility-lib/ng-package.prod.json",
-              "tsConfig": "projects/angular-page-visibility-lib/tsconfig.lib.prod.json"
+              "project": "projects/angular-page-visibility-lib/ng-package.prod.json"
             }
           }
         },

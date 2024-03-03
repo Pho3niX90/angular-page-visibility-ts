@@ -14,8 +14,8 @@
     "typeRoots": ["node_modules/@types"],
     "lib": ["es2017", "dom"],
     "paths": {
-      "angular-page-visibility": ["dist/angular-page-visibility"],
-      "angular-page-visibility/*": ["dist/angular-page-visibility/*"]
+      "angular-page-visibility-ts": ["dist/angular-page-visibility-ts"],
+      "angular-page-visibility-ts/*": ["dist/angular-page-visibility-ts/*"]
     }
   }
 }
