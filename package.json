@@ -11,7 +11,7 @@
     "build:lib": "ng build --configuration=production angular-page-visibility-lib && cp *.md dist/angular-page-visibility-ts",
     "test": "ng test",
     "lint": "ng lint",
-    "publish": "npm publish dist/angular-page-visibility",
+    "publish": "npm publish dist/angular-page-visibility-ts",
     "e2e": "ng e2e",
     "release": "standard-version",
     "release:major": "npm run release -- -t '' --release-as major",
