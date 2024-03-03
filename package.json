@@ -8,7 +8,7 @@
     "start": "ng serve",
     "prebuild": "npm run build:lib",
     "build": "ng build",
-    "build:lib": "ng build --prod angular-page-visibility-lib && cp *.md dist/angular-page-visibility",
+    "build:lib": "ng build --configuration=production angular-page-visibility-lib && cp *.md dist/angular-page-visibility",
     "test": "ng test",
     "lint": "ng lint",
     "publish": "npm publish dist/angular-page-visibility",
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/Pho3niX90/angular-page-visibility-ts.git"
   },
-  "author": "Olivier LIN-SI-CHENG",
+  "author": "Pho3niX90",
   "bugs": {
     "url": "https://github.com/Pho3niX90/angular-page-visibility-ts/issues"
   },
