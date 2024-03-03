@@ -26,7 +26,7 @@ jobs:
         id: extract_branch
       - name: Push new tag
         run: |
-          git push --follow-tags https://${{ secrets.MY_LOGIN }}:${{ secrets.MY_GITHUB_TOKEN }}@github.com/pho3nix90/angular-page-visibility-ts.git HEAD:${{ steps.extract_branch.outputs.branch }}
+          git push --follow-tags origin master
       - name: Build lib
         run: |
           npm run build:lib
