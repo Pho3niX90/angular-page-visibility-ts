@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 15.2.0 (2024-03-03)
+
 ## 15.1.0 (2024-03-03)
 
 ## [11.0.0](https://github.com/olivierlsc/angular-page-visibility/compare/9.0.6...11.0.0) (2021-04-23)
