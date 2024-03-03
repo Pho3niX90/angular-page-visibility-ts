@@ -32,6 +32,6 @@ jobs:
           npm run build:lib
       - name: Publish lib on NPM registry
         run: |
-          npm run publish
+          npm publish dist/angular-page-visibility-ts
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
