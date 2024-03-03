@@ -8,7 +8,7 @@
     "start": "ng serve",
     "prebuild": "npm run build:lib",
     "build": "ng build",
-    "build:lib": "ng build --configuration=production angular-page-visibility-lib && cp *.md dist/angular-page-visibility",
+    "build:lib": "ng build --configuration=production angular-page-visibility-lib && cp *.md dist/angular-page-visibility-ts",
     "test": "ng test",
     "lint": "ng lint",
     "publish": "npm publish dist/angular-page-visibility",
