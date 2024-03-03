@@ -7,6 +7,9 @@
     "url": "git+https://github.com/pho3nix90/angular-page-visibility-ts.git"
   },
   "author": "Olivier LIN-SI-CHENG",
+  "maintainers": [
+    "Pho3niX90"
+  ],
   "bugs": {
     "url": "https://github.com/pho3nix90/angular-page-visibility-ts/issues"
   },
